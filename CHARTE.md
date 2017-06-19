@@ -98,7 +98,9 @@ Les _données Adresse_ déposées par les contributeurs signataires au travers d
 
 ### Données sortantes
 
-Les licences applicables aux _données Adresse_ obtenues via l'API de gestion sont, au choix, la [Licence Gratuite de Repartage][2] ou l'[Open Database Licence 1.0][3].
+Les données et métadonnées collectées via l'API de gestion ne peuvent être utilisées que dans le cadre de la contribution à la Base Adresse Nationale. Elles ne peuvent être diffusées.
+
+Les _données Adresse_ réutilisables et diffusables sont celles diffusées via le site [adresse.data.gouv.fr](https://adresse.data.gouv.fr), sous [Licence Gratuite de Repartage][2] ou [Open Database Licence 1.0][3].
 
 [1]: https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf
 [2]: http://adresse.data.gouv.fr/pdf/licence-gratuite-repartage.pdf
