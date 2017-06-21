@@ -48,8 +48,7 @@ Les signataires de la présente charte s'engagent à :
 * contribuer à l'amélioration de la Base Adresse Nationale, sur leur périmètre géographique de compétence ;
 * ne pas porter atteinte à l'intégrité de l'environnement de production ;
 * ne déposer que des données éligibles à la [Licence Ouverte][1] ;
-* ne pas moissonner la base de données de l'API de gestion ;
-* ...
+* ne pas moissonner la base de données de l'API de gestion.
 
 ### Engagements de la communauté technique
 
