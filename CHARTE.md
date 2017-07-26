@@ -12,15 +12,18 @@ Les consommateurs de données doivent utiliser les fichiers diffusées via le si
 
 Ce document définit le cadre et les conditions d'utilisation de l'API de gestion pendant la phase d'expérimentation.
 
-Cette phase est opérée en environnement de production et permet des évolutions accélérées. Elle peut prendre fin à tout moment, les contributeurs étant alors accompagnés dans leur migration vers le dispositif final.
+La phase d'expérimentation couverte par la présente charte démarre le 1er juillet 2017 et se termine le 15 octobre 2017.
+Elle pourra être prolongée sur décision du Comité de Pilotage de la Base Adresse Nationale.
+
+Cette phase est opérée en environnement de production et permet des évolutions accélérées.
 
 ## Contributeurs de plein droit
 
-Les organismes suivants, de par leur statut de fondateurs, sont contributeurs de plein droit :
+Les organismes suivants, de par leur statut de membres fondateurs de la Base Adresse Nationale, sont contributeurs de plein droit :
 
 * l'[IGN][4]
 * [La Poste][5]
-* la [mission Etalab](https://www.etalab.gouv.fr)
+* [Etalab](https://www.etalab.gouv.fr)
 * [OpenStreetMap France](http://openstreetmap.fr/)
 
 ## Contributeurs signataires
@@ -32,8 +35,8 @@ Pendant la phase d'expérimentation, les types d'entités suivants peuvent deman
 * communautés d'agglomération ;
 * communautés urbaines ;
 * métropoles ;
-* services départementaux d'incendie et de secours (SDIS) ;
-* services d'aide médicale urgente (SAMU).
+* services départementaux d'incendie et de secours (SDIS) (limité à un participant) ;
+* services d'aide médicale urgente (SAMU) (limité à un participant) .
 
 Tout envoi d'une demande par une entité vaut acceptation et engagement à respecter la présente charte.
 
@@ -93,7 +96,7 @@ Ces limitations ont vocation à protéger l'environnement de production.
 
 ### Données entrantes
 
-Les _données Adresse_ déposées par les contributeurs signataires au travers de l'API de gestion sont considérées comme étant sous [Licence Ouverte][1].
+Les _données Adresse_ déposées par les contributeurs via l'API de gestion doivent être libres de toute contrainte à la réutilisation.
 
 ### Données sortantes
 
